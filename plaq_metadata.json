@@ -1,0 +1,10 @@
+{
+  "name": "Plaq",
+  "symbol": "PLAQ",
+  "description": "A fun, community-driven cryptocurrency for dental and non-dental enthusiasts.",
+  "image": "https://raw.githubusercontent.com/<your-github-username>/plaq-metadata/main/metadata/plaq_logo.png",
+  "external_url": "https://<your-github-username>.github.io/plaq-metadata/",
+  "attributes": [
+    { "trait_type": "Project", "value": "Meme Coin" }
+  ]
+}
